@@ -1,6 +1,6 @@
 {
-  "latest_sha": "31611100f23ed2699975533de75d2b1b3a208017",
-  "latest_digest": "sha256:aaa3738bc6d9e1ba0a14d875d615994ef7c59e82e5b322963d4e0da68dc403af",
-  "version": "1.0.1",
-  "build_date": "2026-09-25T02:12:14Z"
+  "latest_sha": "7672e0aa7262ed38186fefcbecc59acddbd494c5",
+  "latest_digest": "sha256:6d410df4e7c9cb8a736417222bef2cfc931581a2058d0a49d8187e98fcb7ddad",
+  "version": "1.0.2",
+  "build_date": "2026-09-25T02:37:15Z"
 }
